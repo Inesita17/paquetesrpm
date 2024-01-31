@@ -22,6 +22,11 @@ La gestión de paquetes RPM se lleva a cabo comúnmente mediante herramientas co
 - `yum install nombre_paquete`: Instala automáticamente un paquete y sus dependencias.
 
 
+
+
+
+
+
 # Características de Rocky Linux
 
 
